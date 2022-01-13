@@ -56,7 +56,9 @@ await page.goBack() : 回到上一頁
 
 結果呈現
 
-<iframe frameborder = "0" src = "https://youtu.be/1hd5PtTHkN4" allowFullScreen = "true" height=600 width=800></iframe>
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="./video.mp4" type="video/mp4" width = 700px height = 600px>
+</videos>
 
 </pre>
 
