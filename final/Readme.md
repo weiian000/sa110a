@@ -56,9 +56,7 @@ await page.goBack() : 回到上一頁
 
 結果呈現
 
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="./video.mp4" type="video/mp4" width = 700px height = 600px>
-</videos>
+<video src="https://youtu.be/1hd5PtTHkN4" controls height=500 width=700></video>
 
 </pre>
 
