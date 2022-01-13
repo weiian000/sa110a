@@ -56,7 +56,7 @@ await page.goBack() : 回到上一頁
 
 結果呈現
 
-<video src="https://youtu.be/1hd5PtTHkN4" controls height=500 width=700></video>
+<a href = "https://youtu.be/TZ3TnYsdQC8">點我觀看</a>
 
 </pre>
 
