@@ -56,7 +56,7 @@ await page.goBack() : 回到上一頁
 
 結果呈現
 
-<iframe frameborder = "0" src = "https://stream.new/v/LtOvCvwuqiSbx7rFd01vf56ekb2MqQY1chDfSlcF75B8" allowFullScreen = "true" height=600 width=800></iframe>
+<iframe frameborder = "0" src = "https://youtu.be/1hd5PtTHkN4" allowFullScreen = "true" height=600 width=800></iframe>
 
 </pre>
 
